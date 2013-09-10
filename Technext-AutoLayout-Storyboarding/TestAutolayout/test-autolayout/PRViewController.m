@@ -3,7 +3,7 @@
 //  test-autolayout
 //
 //  Created by Prashant Rane on 2/20/13.
-//  Copyright (c) 2013 ExamSoft. All rights reserved.
+//  Copyright (c) 2013 -. All rights reserved.
 //
 
 #import "PRViewController.h"
